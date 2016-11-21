@@ -116,7 +116,7 @@ heroku redis:timeout \
 # Force heroku git remote to our app
 heroku git:remote \
 	--app "$1" \
-	--ssh-git
+	#--ssh-git
 
 # Make initial commit and deploy
 true && \
