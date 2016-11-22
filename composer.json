@@ -30,6 +30,8 @@
         "wpackagist-theme/llorix-one-lite": "0.1.22",
         "wpackagist-plugin/llorix-one-companion": "~1.0.6",
         "wpackagist-plugin/intergeo-maps": "1.1.6",
+        "wpackagist-plugin/siteorigin-panels": "2.4.18",
+        "wpackagist-plugin/so-widgets-bundle": "1.7.2",
 
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "~0.23"
