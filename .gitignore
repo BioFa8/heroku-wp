@@ -6,3 +6,4 @@
 /tmp/
 /vendor/
 /.vagrant/
+.DS_STORE
