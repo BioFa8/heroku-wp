@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "3d843533a3af5ccb87e9e5452614bb07",
-    "content-hash": "0da4a65a58b985a95b22f3d10a2bc483",
+    "hash": "b2d96947b93314e5e87be73d4c379021",
+    "content-hash": "8b04c8cceff4a5cbe90c935198de7489",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1750,6 +1750,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/contact-form-7/"
+        },
+        {
+            "name": "wpackagist-plugin/intergeo-maps",
+            "version": "1.1.6",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/intergeo-maps/",
+                "reference": "tags/1.1.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/intergeo-maps.1.1.6.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/intergeo-maps/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
