@@ -26,6 +26,8 @@
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
+        "wpackagist-plugin/contact-form-7": "~4.5.1",
+
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "~0.23"
     },
